@@ -1,4 +1,5 @@
-## Hola! Mi nombre es Franco y esta es mi pagina de Git ! 😄
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Franco</h1>
+<h3 align="center"> Full Stack Developer </h3>
 
 <!--
 **Francoheredia/Francoheredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,15 +19,9 @@ Here are some ideas to get you started:
 - 🌱 Estudiando  Full stack Developer MERN
 - 😄 Pronouns: Fran
 
-  
-  
-  
-  
-<div display= "flex" align="center">
-  <a href="https://github.com/Francoheredia">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Francoheredia&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francoheredia&layout=compact&langs_count=7&theme=react"/>
-</div>
+## 🚀 Lenguajes and Tools:
+
+</div align="left">
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -48,15 +43,27 @@ Here are some ideas to get you started:
 
 </div>
   
+
+<br/>
+
+  ## 📊 My Github Stats
+  <br/>
+    <a href="https://github.com/Francoheredia/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Francoheredia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Francoheredia/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francoheredia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+    
   
   
-  ##
   
-  <div> 
-  <a href="https://instagram.com/herediafran7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:francoherediadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/francoherediadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/herediafran7/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+    
   
     
       ![Snake animation](https://github.com/Francoheredia/Francoheredia/blob/output/github-contribution-grid-snake.svg)
