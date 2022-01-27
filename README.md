@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/francoherediadev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Franco_Herediaa"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/herediafran7/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
