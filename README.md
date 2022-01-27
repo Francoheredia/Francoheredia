@@ -14,12 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div display= "flex" align="center">
-  <a href="https://github.com/Francoheredia">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Francoheredia&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francoheredia&layout=compact&langs_count=7&theme=react"/>
-</div>
+- 🔭 Buscando  La primer oportunidad IT 😄
+- 🌱 Estudiando  Full stack Developer MERN
+- 😄 Pronouns: Fran
+
   
+  
+  
+  
+<div display= "flex" align="center" justify-content= "space-between">
+  <a href="https://github.com/Francoheredia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francoheredia&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francoheredia&layout=compact&langs_count=7&theme=react"/>
+</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
