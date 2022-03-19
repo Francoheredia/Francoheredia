@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## 🙋‍♂️ About Me
 
-- 🔭 Buscando  La primer oportunidad IT 😄
+- 🔭 
 - 🌱 Estudiando  Full stack Developer PERN
 - 😄 Pronouns: Fran
 
