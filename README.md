@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
 - 🔭 
-- 🌱 Estudiando  Full stack Developer PERN
+- 🌱 Full stack Developer
 - 😄 Pronouns: Fran
 
 ## 🚀 Lenguajes and Tools:
